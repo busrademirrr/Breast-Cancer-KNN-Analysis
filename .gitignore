@@ -1,0 +1,16 @@
+ ```txt
+   # Python cache files
+   __pycache__/
+   *.py[cod]
+
+   # Spyder / Jupyter
+   .spyproject/
+   .ipynb_checkpoints/
+
+   # Data
+   /data/*.xlsx
+   /data/*.zip
+
+   # OS files
+   .DS_Store
+   Thumbs.db
