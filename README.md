@@ -157,4 +157,4 @@ Bash
 cd src
 python proje1.py
 🔗 Author / Yazar
-Büşra Demir GitHub Profile
+Büşra Demir https://github.com/busrademirrr
